@@ -1,28 +1,26 @@
-import { Injectable, OnModuleDestroy } from '@nestjs/common';
-import neo4j, { Driver, Session } from 'neo4j-driver';
+import { Injectable, OnModuleInit } from '@nestjs/common';
+import neo4j, { Driver } from 'neo4j-driver';
+import { Neo4jConfig } from './neo4j.config';
 
 @Injectable()
-export class Neo4jService implements OnModuleDestroy {
+export class Neo4jService implements OnModuleInit {
   private driver: Driver;
-  private readonly uri = 'bolt://localhost:7687'; // Update if needed
-  private readonly user = 'neo4j'; // Neo4j Username
-  private readonly password = 'neo4jneo4j'; // Neo4j Password
 
-  constructor() {
-    this.driver = neo4j.driver(this.uri, neo4j.auth.basic(this.user, this.password));
+  constructor(private readonly config: Neo4jConfig) {}
+
+  async onModuleInit() {
+    this.driver = neo4j.driver(
+      this.config.NEO4J_URI,
+      neo4j.auth.basic(this.config.NEO4J_USER, this.config.NEO4J_PASSWORD),
+    );
   }
 
-  async runQuery(query: string, params: any = {}): Promise<any> {
-    const session: Session = this.driver.session();
+  async runQuery(query: string, params = {}) {
+    const session = this.driver.session();
     try {
-      const result = await session.run(query, params);
-      return result.records.map(record => record.toObject());
+      return await session.run(query, params);
     } finally {
       await session.close();
     }
-  }
-
-  async onModuleDestroy() {
-    await this.driver.close();
   }
 }

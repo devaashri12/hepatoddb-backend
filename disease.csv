@@ -1,0 +1,792 @@
+﻿Disease,GeneID,Gene Name,Protein Name
+Hepatitis A,7124,TNF,Tumor necrosis factor
+Hepatitis A,7040,TGFB1,Transforming growth factor beta-1
+Hepatitis A,3586,IL6,Interleukin-6
+Hepatitis A,5243,PIK3CA,"Phosphatidylinositol-4,5-bisphosphate 3-kinase catalytic subunit alpha"
+Hepatitis A,7099,TP53,Tumor protein p53
+Hepatitis A,155971,env,
+Hepatitis A,920,CD4,T-cell surface glycoprotein CD4
+Hepatitis A,1234,CCR5,C-C chemokine receptor type 5
+Hepatitis A,1493,CTLA4,Cytotoxic T-lymphocyte protein 4
+Hepatitis A,5133,PDCD1,Programmed cell death protein 1 (PD-1)
+Hepatitis A,15975,Ifnar1,
+Hepatitis A,3606,IL18,Interleukin-18
+Hepatitis A,7515,XRCC1,X-ray repair cross-complementing protein 1
+Hepatitis A,406938,MIR146A,MicroRNA 146a
+Hepatitis A,155030,gag,
+Hepatitis A,1576,CYP3A4,Cytochrome P450 3A4
+Hepatitis A,4288,MKI67,Proliferation marker protein Ki-67
+Hepatitis A,3082,HGF,Hepatocyte growth factor
+Hepatitis A,3309,HSPA5,78 kDa glucose-regulated protein (GRP78)
+Hepatitis A,3627,CXCL10,C-X-C motif chemokine 10
+Hepatitis B,7157,TP53,Tumor protein p53
+Hepatitis B,1956,EGFR,Epidermal growth factor receptor
+Hepatitis B,348,APOE,Apolipoprotein E
+Hepatitis B,7124,TNF,Tumor necrosis factor
+Hepatitis B,3569,IL6,Interleukin-6
+Hepatitis B,7040,TGFB1,Transforming growth factor beta-1
+Hepatitis B,22059,Trp53,
+Hepatitis B,4524,MTHFR,Methylenetetrahydrofolate reductase
+Hepatitis B,3091,HIF1A,Hypoxia-inducible factor 1-alpha
+Hepatitis B,2099,ESR1,Estrogen receptor alpha
+Hepatitis B,3586,IL6,Interleukin-6
+Hepatitis B,6774,STAT3,Signal transducer and activator of transcription 3
+Hepatitis B,1636,ACE,Angiotensin-converting enzyme
+Hepatitis B,3845,KRAS,GTPase KRas
+Hepatitis B,21898,Tlr4,
+Hepatitis B,7421,VDR,Vitamin D3 receptor
+Hepatitis B,4318,MMP9,Matrix metalloproteinase-9
+Hepatitis B,29126,CD274,Programmed death-ligand 1 (PD-L1)
+Hepatitis B,1401,CRP,C-reactive protein
+Hepatitis B,367,AR,Androgen receptor
+Hepatitis C,7157,TP53,Tumor protein p53
+Hepatitis C,1956,EGFR,Epidermal growth factor receptor
+Hepatitis C,348,APOE,Apolipoprotein E
+Hepatitis C,7124,TNF,Tumor necrosis factor
+Hepatitis C,3569,IL6,Interleukin-6
+Hepatitis C,7422,VEGFA,Vascular endothelial growth factor A
+Hepatitis C,7040,TGFB1,Transforming growth factor beta-1
+Hepatitis C,4524,MTHFR,Methylenetetrahydrofolate reductase
+Hepatitis C,2064,ERBB2,Receptor tyrosine-protein kinase erbB-2 (HER2)
+Hepatitis C,2099,ESR1,Estrogen receptor alpha
+Hepatitis C,3586,IL6,Interleukin-6
+Hepatitis C,6774,STAT3,Signal transducer and activator of transcription 3
+Hepatitis C,1636,ACE,Angiotensin-converting enzyme
+Hepatitis C,21898,Tlr4,
+Hepatitis C,7421,VDR,Vitamin D3 receptor
+Hepatitis C,4318,MMP9,Matrix metalloproteinase-9
+Hepatitis C,29126,CD274,Programmed death-ligand 1 (PD-L1)
+Hepatitis C,1401,CRP,C-reactive protein
+Hepatitis C,9370,ADIPOQ,Adiponectin
+Hepatitis C,207,AKT1,"RAC-alpha serine/threonine-protein kinase (Protein Kinase B, PKB)"
+Hepatitis D,282617,IFNL3,Interferon lambda-3
+Hepatitis D,4088,SMAD3,Mothers against decapentaplegic homolog 3
+Hepatitis D,7291,TWIST1,Twist-related protein 1
+Hepatitis D,64135,IFIH1,Interferon-induced helicase C domain-containing protein 1
+Hepatitis D,6554,SLC10A1,Sodium/bile acid cotransporter
+Hepatitis D,6555,SLC10A2,Apical sodium-dependent bile acid transporter
+Hepatitis D,79132,DHX58,DExH-box helicase 58
+Hepatitis D,920835,S-HDAg,Small Hepatitis delta antigen
+Hepatitis D,920836,L-HDAg,Large Hepatitis delta antigen
+Hepatitis D,80534620,HDAg,Hepatitis delta antigen
+Hepatitis D,80519910,QJ952_gp1,
+Hepatitis D,80510882,QKK73_gp1,
+Hepatitis D,80510881,QKK73_gp2,
+Hepatitis D,80510879,QKK72_gp1,
+Hepatitis D,80510878,QKK72_gp2,
+Hepatitis D,80712017,NEWENTRY,
+Hepatitis D,80712015,NEWENTRY,
+Hepatitis D,80712013,NEWENTRY,
+Hepatitis D,2829031,NEWENTRY,
+Hepatitis E,1956,EGFR,Epidermal growth factor receptor
+Hepatitis E,7124,TNF,Tumor necrosis factor
+Hepatitis E,3091,HIF1A,Hypoxia-inducible factor 1-alpha
+Hepatitis E,2099,ESR1,Estrogen receptor alpha
+Hepatitis E,3586,IL6,Interleukin-6
+Hepatitis E,6774,STAT3,Signal transducer and activator of transcription 3
+Hepatitis E,3123,HLA-DRB1,"Major histocompatibility complex, class II, DR beta 1"
+Hepatitis E,7099,TP53,Tumor protein p53
+Hepatitis E,2475,MTOR,Mechanistic target of rapamycin
+Hepatitis E,3458,IFNG,Interferon gamma
+Hepatitis E,114548,NLRP3,"NACHT, LRR and PYD domains-containing protein 3"
+Hepatitis E,3606,IL18,Interleukin-18
+Hepatitis E,6772,STAT1,Signal transducer and activator of transcription 1
+Hepatitis E,929,CD14,Monocyte differentiation antigen CD14
+Hepatitis E,3309,HSPA5,78 kDa glucose-regulated protein (GRP78)
+Hepatitis E,5241,PGR,Progesterone receptor
+Hepatitis E,282617,IFNL3,Interferon lambda-3
+Hepatitis E,5578,PRKCA,Protein kinase C alpha type
+Hepatitis E,7098,TLR3,Toll-like receptor 3
+Hepatitis E,1385,CREB1,cAMP response element-binding protein 1
+Liver Tuberculosis,7157,TP53,Tumor protein p53
+Liver Tuberculosis,1956,EGFR,Epidermal growth factor receptor
+Liver Tuberculosis,348,APOE,Apolipoprotein E
+Liver Tuberculosis,7124,TNF,Tumor necrosis factor
+Liver Tuberculosis,3569,IL6,Interleukin-6
+Liver Tuberculosis,7422,VEGFA,Vascular endothelial growth factor A
+Liver Tuberculosis,7040,TGFB1,Transforming growth factor beta-1
+Liver Tuberculosis,3091,HIF1A,Hypoxia-inducible factor 1-alpha
+Liver Tuberculosis,11816,Apoe,
+Liver Tuberculosis,3586,IL6,Interleukin-6
+Liver Tuberculosis,6774,STAT3,Signal transducer and activator of transcription 3
+Liver Tuberculosis,1636,ACE,Angiotensin-converting enzyme
+Liver Tuberculosis,21898,Tlr4,
+Liver Tuberculosis,7421,VDR,Vitamin D3 receptor
+Liver Tuberculosis,4318,MMP9,Matrix metalloproteinase-9
+Liver Tuberculosis,29126,CD274,Programmed death-ligand 1 (PD-L1)
+Liver Tuberculosis,1401,CRP,C-reactive protein
+Liver Tuberculosis,9370,ADIPOQ,Adiponectin
+Liver Tuberculosis,207,AKT1,"RAC-alpha serine/threonine-protein kinase (Protein Kinase B, PKB)"
+Liver Tuberculosis,5243,PIK3CA,"Phosphatidylinositol-4,5-bisphosphate 3-kinase catalytic subunit alpha"
+Schistosomiasis-Related Liver Disease,348,APOE,Apolipoprotein E
+Schistosomiasis-Related Liver Disease,7124,TNF,Tumor necrosis factor
+Schistosomiasis-Related Liver Disease,3569,IL6,Interleukin-6
+Schistosomiasis-Related Liver Disease,7422,VEGFA,Vascular endothelial growth factor A
+Schistosomiasis-Related Liver Disease,7040,TGFB1,Transforming growth factor beta-1
+Schistosomiasis-Related Liver Disease,2064,ERBB2,Receptor tyrosine-protein kinase erbB-2 (HER2)
+Schistosomiasis-Related Liver Disease,3586,IL6,Interleukin-6
+Schistosomiasis-Related Liver Disease,21898,Tlr4,
+Schistosomiasis-Related Liver Disease,29126,CD274,Programmed death-ligand 1 (PD-L1)
+Schistosomiasis-Related Liver Disease,3553,IL1B,Interleukin-1 beta
+Schistosomiasis-Related Liver Disease,3123,HLA-DRB1,"Major histocompatibility complex, class II, DR beta 1"
+Schistosomiasis-Related Liver Disease,21926,Tnf,
+Schistosomiasis-Related Liver Disease,4609,MYC,Myc proto-oncogene protein
+Schistosomiasis-Related Liver Disease,596,BCL2,B-cell lymphoma 2 protein
+Schistosomiasis-Related Liver Disease,21803,Tgfb1,
+Schistosomiasis-Related Liver Disease,3458,IFNG,Interferon gamma
+Schistosomiasis-Related Liver Disease,3605,IL17A,Interleukin-17A
+Schistosomiasis-Related Liver Disease,24088,Tlr2,
+Schistosomiasis-Related Liver Disease,6347,CCL2,C-C motif chemokine 2 (MCP-1)
+Schistosomiasis-Related Liver Disease,1234,CCR5,C-C chemokine receptor type 5
+Echinococcosis,3569,IL6,Interleukin-6
+Echinococcosis,3586,IL6,Interleukin-6
+Echinococcosis,6774,STAT3,Signal transducer and activator of transcription 3
+Echinococcosis,4790,NFKB1,Nuclear factor NF-kappa-B p105 subunit
+Echinococcosis,3123,HLA-DRB1,"Major histocompatibility complex, class II, DR beta 1"
+Echinococcosis,7099,TP53,Tumor protein p53
+Echinococcosis,3605,IL17A,Interleukin-17A
+Echinococcosis,5594,MAPK1,Mitogen-activated protein kinase 1 (ERK2)
+Echinococcosis,7097,TLR2,Toll-like receptor 2
+Echinococcosis,3119,HLA-DQB1,
+Echinococcosis,1432,MAPK14,Mitogen-activated protein kinase 14 (p38 MAPK)
+Echinococcosis,406938,MIR146A,MicroRNA 146a
+Echinococcosis,1543,CYP1A1,
+Echinococcosis,5595,MAPK3,
+Echinococcosis,406947,MIR155,MicroRNA 155
+Echinococcosis,5599,MAPK8,
+Echinococcosis,18566,Pdcd1,
+Echinococcosis,84868,HAVCR2,Hepatitis A virus cellular receptor 2
+Echinococcosis,21939,Cd40,
+Echinococcosis,246778,IL27,Interleukin-27
+Brucellosis-Associated Hepatitis,7124,TNF,Tumor necrosis factor
+Brucellosis-Associated Hepatitis,3569,IL6,Interleukin-6
+Brucellosis-Associated Hepatitis,7040,TGFB1,Transforming growth factor beta-1
+Brucellosis-Associated Hepatitis,3586,IL6,Interleukin-6
+Brucellosis-Associated Hepatitis,7421,VDR,Vitamin D3 receptor
+Brucellosis-Associated Hepatitis,1401,CRP,C-reactive protein
+Brucellosis-Associated Hepatitis,7099,TP53,Tumor protein p53
+Brucellosis-Associated Hepatitis,15978,Ifng,
+Brucellosis-Associated Hepatitis,3576,CXCL8,Interleukin-8
+Brucellosis-Associated Hepatitis,3458,IFNG,Interferon gamma
+Brucellosis-Associated Hepatitis,3605,IL17A,Interleukin-17A
+Brucellosis-Associated Hepatitis,406991,MIR21,MicroRNA 21
+Brucellosis-Associated Hepatitis,1234,CCR5,C-C chemokine receptor type 5
+Brucellosis-Associated Hepatitis,1493,CTLA4,Cytotoxic T-lymphocyte protein 4
+Brucellosis-Associated Hepatitis,114548,NLRP3,"NACHT, LRR and PYD domains-containing protein 3"
+Brucellosis-Associated Hepatitis,3606,IL18,Interleukin-18
+Brucellosis-Associated Hepatitis,3565,IL4,Interleukin-4
+Brucellosis-Associated Hepatitis,406938,MIR146A,MicroRNA 146a
+Brucellosis-Associated Hepatitis,4153,MBL2,Mannose-binding lectin 2
+Brucellosis-Associated Hepatitis,406947,MIR155,MicroRNA 155
+Yellow Fever,5594,MAPK1,Mitogen-activated protein kinase 1 (ERK2)
+Yellow Fever,5054,SERPINE1,
+Yellow Fever,836,CASP3,Caspase-3
+Yellow Fever,5595,MAPK3,Mitogen-activated protein kinase 3 (ERK1)
+Yellow Fever,23586,RIGI, Retinoic acid-inducible gene I (RIG-I)
+Yellow Fever,7415,VCP, Valosin-containing protein
+Yellow Fever,5478,PPIA,Peptidyl-prolyl cis-trans isomerase A (Cyclophilin A)
+Yellow Fever,8651,SOCS1, Suppressor of cytokine signaling 1
+Yellow Fever,3456,IFNB1,Interferon beta-1
+Yellow Fever,2243,FGA,Fibrinogen alpha chain
+Yellow Fever,1965,EIF2S1,Eukaryotic translation initiation factor 2 subunit alpha
+Yellow Fever,840,CASP7,Caspase-7
+Yellow Fever,3454,IFNAR1,Interferon alpha/beta receptor 1
+Yellow Fever,1452,CSNK1A1,
+Yellow Fever,7751225,POLY,
+Yellow Fever,6626,SNRPA,Small nuclear ribonucleoprotein-associated protein A
+Yellow Fever,51386,EIF3L,
+Yellow Fever,1489719,POLY,
+Yellow Fever,81844,TRIM56,Tripartite motif-containing protein 56
+Yellow Fever,3669,ISG20,Interferon-stimulated exonuclease gene 20
+Cytomegalovirus Hepatitis,7157,TP53,Tumor protein p53
+Cytomegalovirus Hepatitis,1956,EGFR,Epidermal growth factor receptor
+Cytomegalovirus Hepatitis,348,APOE,Apolipoprotein E
+Cytomegalovirus Hepatitis,7124,TNF,Tumor necrosis factor
+Cytomegalovirus Hepatitis,3569,IL6,Interleukin-6
+Cytomegalovirus Hepatitis,7040,TGFB1,Transforming growth factor beta-1
+Cytomegalovirus Hepatitis,22059,Trp53,
+Cytomegalovirus Hepatitis,3091,HIF1A,Hypoxia-inducible factor 1-alpha
+Cytomegalovirus Hepatitis,2099,ESR1,Estrogen receptor alpha
+Cytomegalovirus Hepatitis,3586,IL6,Interleukin-6
+Cytomegalovirus Hepatitis,6774,STAT3,Signal transducer and activator of transcription 3
+Cytomegalovirus Hepatitis,21898,Tlr4,
+Cytomegalovirus Hepatitis,7421,VDR,Vitamin D3 receptor
+Cytomegalovirus Hepatitis,4318,MMP9,Matrix metalloproteinase-9
+Cytomegalovirus Hepatitis,29126,CD274,Programmed death-ligand 1 (PD-L1)
+Cytomegalovirus Hepatitis,1401,CRP,C-reactive protein
+Cytomegalovirus Hepatitis,207,AKT1,"RAC-alpha serine/threonine-protein kinase (Protein Kinase B, PKB)"
+Cytomegalovirus Hepatitis,4790,NFKB1,Nuclear factor NF-kappa-B p105 subunit
+Cytomegalovirus Hepatitis,3553,IL1B,Interleukin-1 beta
+Cytomegalovirus Hepatitis,3123,HLA-DRB1,"Major histocompatibility complex, class II, DR beta 1"
+Herpes Simplex Virus Hepatitis,7157,TP53,Tumor protein p53
+Herpes Simplex Virus Hepatitis,348,APOE,Apolipoprotein E
+Herpes Simplex Virus Hepatitis,7124,TNF,Tumor necrosis factor
+Herpes Simplex Virus Hepatitis,7040,TGFB1,Transforming growth factor beta-1
+Herpes Simplex Virus Hepatitis,2064,ERBB2,Receptor tyrosine-protein kinase erbB-2 (HER2)
+Herpes Simplex Virus Hepatitis,4318,MMP9,Matrix metalloproteinase-9
+Herpes Simplex Virus Hepatitis,207,AKT1,"RAC-alpha serine/threonine-protein kinase (Protein Kinase B, PKB)"
+Herpes Simplex Virus Hepatitis,4790,NFKB1,Nuclear factor NF-kappa-B p105 subunit
+Herpes Simplex Virus Hepatitis,1499,CTNNB1,
+Herpes Simplex Virus Hepatitis,3123,HLA-DRB1,"Major histocompatibility complex, class II, DR beta 1"
+Herpes Simplex Virus Hepatitis,21926,Tnf,
+Herpes Simplex Virus Hepatitis,7099,TP53,Tumor protein p53
+Herpes Simplex Virus Hepatitis,15978,Ifng,
+Herpes Simplex Virus Hepatitis,7015,TERT,Telomerase reverse transcriptase
+Herpes Simplex Virus Hepatitis,155971,env,
+Herpes Simplex Virus Hepatitis,16193,Il6,
+Herpes Simplex Virus Hepatitis,3458,IFNG,Interferon gamma
+Herpes Simplex Virus Hepatitis,24088,Tlr2,
+Herpes Simplex Virus Hepatitis,6347,CCL2,C-C motif chemokine 2 (MCP-1)
+Herpes Simplex Virus Hepatitis,5290,PIK3CA,"Phosphatidylinositol-4,5-bisphosphate 3-kinase catalytic subunit alpha"
+Varicella-Zoster Virus Hepatitis,7124,TNF,Tumor necrosis factor
+Varicella-Zoster Virus Hepatitis,3569,IL6,Interleukin-6
+Varicella-Zoster Virus Hepatitis,6774,STAT3,Signal transducer and activator of transcription 3
+Varicella-Zoster Virus Hepatitis,207,AKT1,"RAC-alpha serine/threonine-protein kinase (Protein Kinase B, PKB)"
+Varicella-Zoster Virus Hepatitis,4790,NFKB1,Nuclear factor NF-kappa-B p105 subunit
+Varicella-Zoster Virus Hepatitis,3553,IL1B,Interleukin-1 beta
+Varicella-Zoster Virus Hepatitis,3123,HLA-DRB1,"Major histocompatibility complex, class II, DR beta 1"
+Varicella-Zoster Virus Hepatitis,2475,MTOR,Mechanistic target of rapamycin
+Varicella-Zoster Virus Hepatitis,999,CDH1,
+Varicella-Zoster Virus Hepatitis,3458,IFNG,Interferon gamma
+Varicella-Zoster Virus Hepatitis,5594,MAPK1,Mitogen-activated protein kinase 1 (ERK2)
+Varicella-Zoster Virus Hepatitis,5290,PIK3CA,"Phosphatidylinositol-4,5-bisphosphate 3-kinase catalytic subunit alpha"
+Varicella-Zoster Virus Hepatitis,1493,CTLA4,Cytotoxic T-lymphocyte protein 4
+Varicella-Zoster Virus Hepatitis,7097,TLR2,Toll-like receptor 2
+Varicella-Zoster Virus Hepatitis,472,ATM,
+Varicella-Zoster Virus Hepatitis,3119,HLA-DQB1,
+Varicella-Zoster Virus Hepatitis,6667,SP1,
+Varicella-Zoster Virus Hepatitis,16176,Il1b,
+Varicella-Zoster Virus Hepatitis,5595,MAPK3,
+Varicella-Zoster Virus Hepatitis,6772,STAT1,Signal transducer and activator of transcription 1
+Epstein-Barr Virus Hepatitis,7157,TP53,Tumor protein p53
+Epstein-Barr Virus Hepatitis,7124,TNF,Tumor necrosis factor
+Epstein-Barr Virus Hepatitis,3569,IL6,Interleukin-6
+Epstein-Barr Virus Hepatitis,7040,TGFB1,Transforming growth factor beta-1
+Epstein-Barr Virus Hepatitis,3091,HIF1A,Hypoxia-inducible factor 1-alpha
+Epstein-Barr Virus Hepatitis,2064,ERBB2,Receptor tyrosine-protein kinase erbB-2 (HER2)
+Epstein-Barr Virus Hepatitis,3586,IL6,Interleukin-6
+Epstein-Barr Virus Hepatitis,6774,STAT3,Signal transducer and activator of transcription 3
+Epstein-Barr Virus Hepatitis,4318,MMP9,Matrix metalloproteinase-9
+Epstein-Barr Virus Hepatitis,29126,CD274,Programmed death-ligand 1 (PD-L1)
+Epstein-Barr Virus Hepatitis,207,AKT1,"RAC-alpha serine/threonine-protein kinase (Protein Kinase B, PKB)"
+Epstein-Barr Virus Hepatitis,4790,NFKB1,Nuclear factor NF-kappa-B p105 subunit
+Epstein-Barr Virus Hepatitis,3553,IL1B,Interleukin-1 beta
+Epstein-Barr Virus Hepatitis,1499,CTNNB1,
+Epstein-Barr Virus Hepatitis,3123,HLA-DRB1,"Major histocompatibility complex, class II, DR beta 1"
+Epstein-Barr Virus Hepatitis,5728,PTEN,Phosphatase and tensin homolog
+Epstein-Barr Virus Hepatitis,1029,CDKN2A,Cyclin-dependent kinase inhibitor 2A
+Epstein-Barr Virus Hepatitis,5743,PTGS2,Prostaglandin-endoperoxide synthase 2 (COX-2)
+Epstein-Barr Virus Hepatitis,7015,TERT,Telomerase reverse transcriptase
+Epstein-Barr Virus Hepatitis,4609,MYC,Myc proto-oncogene protein
+HIV-Associated Liver Disease,7157,TP53,Tumor protein p53
+HIV-Associated Liver Disease,348,APOE,Apolipoprotein E
+HIV-Associated Liver Disease,7124,TNF,Tumor necrosis factor
+HIV-Associated Liver Disease,3569,IL6,Interleukin-6
+HIV-Associated Liver Disease,7422,VEGFA,Vascular endothelial growth factor A
+HIV-Associated Liver Disease,7040,TGFB1,Transforming growth factor beta-1
+HIV-Associated Liver Disease,351,APP,Amyloid beta A4 protein precursor
+HIV-Associated Liver Disease,6774,STAT3,Signal transducer and activator of transcription 3
+HIV-Associated Liver Disease,4318,MMP9,Matrix metalloproteinase-9
+HIV-Associated Liver Disease,9370,ADIPOQ,Adiponectin
+HIV-Associated Liver Disease,3123,HLA-DRB1,"Major histocompatibility complex, class II, DR beta 1"
+HIV-Associated Liver Disease,4609,MYC,Myc proto-oncogene protein
+HIV-Associated Liver Disease,3576,CXCL8,Interleukin-8
+HIV-Associated Liver Disease,3479,IGF1,Insulin-like growth factor 1
+HIV-Associated Liver Disease,3952,LEP,Leptin
+HIV-Associated Liver Disease,4313,MMP2,Matrix metalloproteinase-2
+HIV-Associated Liver Disease,23411,SIRT1,NAD-dependent deacetylase sirtuin-1
+HIV-Associated Liver Disease,5594,MAPK1,Mitogen-activated protein kinase 1 (ERK2)
+HIV-Associated Liver Disease,6347,CCL2,C-C motif chemokine 2 (MCP-1)
+HIV-Associated Liver Disease,1234,CCR5,C-C chemokine receptor type 5
+Q Fever Hepatitis,21926,Tnf,
+Q Fever Hepatitis,7099,TP53,Tumor protein p53
+Q Fever Hepatitis,7097,TLR2,Toll-like receptor 2
+Q Fever Hepatitis,1432,MAPK14,Mitogen-activated protein kinase 14 (p38 MAPK)
+Q Fever Hepatitis,5027,P2RX7,P2X purinoceptor 7
+Q Fever Hepatitis,4615,MYD88,Myeloid differentiation primary response protein MyD88
+Q Fever Hepatitis,4283,CXCL9,C-X-C motif chemokine 9
+Q Fever Hepatitis,7879,RAB7A,
+Q Fever Hepatitis,730249,ACOD1,Aconitate decarboxylase 1
+Syphilitic Hepatitis,3576,CXCL8,Interleukin-8
+Syphilitic Hepatitis,3627,CXCL10,C-X-C motif chemokine 10
+Syphilitic Hepatitis,4283,CXCL9,C-X-C motif chemokine 9
+Autoimmune Hepatitis,7124,TNF,Tumor necrosis factor
+Autoimmune Hepatitis,3569,IL6,Interleukin-6
+Autoimmune Hepatitis,7040,TGFB1,Transforming growth factor beta-1
+Autoimmune Hepatitis,3586,IL6,Interleukin-6
+Autoimmune Hepatitis,3123,HLA-DRB1,"Major histocompatibility complex, class II, DR beta 1"
+Autoimmune Hepatitis,21926,Tnf,
+Autoimmune Hepatitis,15978,Ifng,
+Autoimmune Hepatitis,3106,HLA-B,
+Autoimmune Hepatitis,16193,Il6,
+Autoimmune Hepatitis,3458,IFNG,Interferon gamma
+Autoimmune Hepatitis,18024,Nfe2l2,
+Autoimmune Hepatitis,17874,Myd88,
+Autoimmune Hepatitis,3605,IL17A,Interleukin-17A
+Autoimmune Hepatitis,5594,MAPK1,Mitogen-activated protein kinase 1 (ERK2)
+Autoimmune Hepatitis,14102,Fas,
+Autoimmune Hepatitis,1493,CTLA4,Cytotoxic T-lymphocyte protein 4
+Autoimmune Hepatitis,2146,EZH2,Enhancer of zeste homolog 2
+Autoimmune Hepatitis,2952,GSTT1,Glutathione S-transferase theta-1
+Autoimmune Hepatitis,16171,Il17a,
+Autoimmune Hepatitis,18033,Nfkb1,
+Primary Biliary Cholangitis,7157,TP53,Tumor protein p53
+Primary Biliary Cholangitis,3569,IL6,Interleukin-6
+Primary Biliary Cholangitis,7040,TGFB1,Transforming growth factor beta-1
+Primary Biliary Cholangitis,2099,ESR1,Estrogen receptor alpha
+Primary Biliary Cholangitis,6774,STAT3,Signal transducer and activator of transcription 3
+Primary Biliary Cholangitis,673,BRAF,Serine/threonine-protein kinase B-Raf
+Primary Biliary Cholangitis,7421,VDR,Vitamin D3 receptor
+Primary Biliary Cholangitis,4790,NFKB1,Nuclear factor NF-kappa-B p105 subunit
+Primary Biliary Cholangitis,1499,CTNNB1,
+Primary Biliary Cholangitis,3123,HLA-DRB1,"Major histocompatibility complex, class II, DR beta 1"
+Primary Biliary Cholangitis,1029,CDKN2A,Cyclin-dependent kinase inhibitor 2A
+Primary Biliary Cholangitis,1080,CFTR,Cystic fibrosis transmembrane conductance regulator
+Primary Biliary Cholangitis,15978,Ifng,
+Primary Biliary Cholangitis,3576,CXCL8,Interleukin-8
+Primary Biliary Cholangitis,5468,PPARG,Peroxisome proliferator-activated receptor gamma
+Primary Biliary Cholangitis,3106,HLA-B,
+Primary Biliary Cholangitis,596,BCL2,B-cell lymphoma 2 protein
+Primary Biliary Cholangitis,3458,IFNG,Interferon gamma
+Primary Biliary Cholangitis,4780,NFE2L2,
+Primary Biliary Cholangitis,3605,IL17A,Interleukin-17A
+Primary Sclerosing Cholangitis,7157,TP53,Tumor protein p53
+Primary Sclerosing Cholangitis,3569,IL6,Interleukin-6
+Primary Sclerosing Cholangitis,7040,TGFB1,Transforming growth factor beta-1
+Primary Sclerosing Cholangitis,6774,STAT3,Signal transducer and activator of transcription 3
+Primary Sclerosing Cholangitis,673,BRAF,Serine/threonine-protein kinase B-Raf
+Primary Sclerosing Cholangitis,1499,CTNNB1,
+Primary Sclerosing Cholangitis,3123,HLA-DRB1,"Major histocompatibility complex, class II, DR beta 1"
+Primary Sclerosing Cholangitis,1029,CDKN2A,Cyclin-dependent kinase inhibitor 2A
+Primary Sclerosing Cholangitis,1080,CFTR,Cystic fibrosis transmembrane conductance regulator
+Primary Sclerosing Cholangitis,3576,CXCL8,Interleukin-8
+Primary Sclerosing Cholangitis,3106,HLA-B,
+Primary Sclerosing Cholangitis,3605,IL17A,Interleukin-17A
+Primary Sclerosing Cholangitis,4313,MMP2,Matrix metalloproteinase-2
+Primary Sclerosing Cholangitis,20848,Stat3,
+Primary Sclerosing Cholangitis,3146,HMGB1,High mobility group protein B1
+Primary Sclerosing Cholangitis,1234,CCR5,C-C chemokine receptor type 5
+Primary Sclerosing Cholangitis,216799,Nlrp3,
+Primary Sclerosing Cholangitis,1493,CTLA4,Cytotoxic T-lymphocyte protein 4
+Primary Sclerosing Cholangitis,114548,NLRP3,"NACHT, LRR and PYD domains-containing protein 3"
+Primary Sclerosing Cholangitis,3383,ICAM1,Intercellular adhesion molecule 1
+IgG4-Related Sclerosing Cholangitis,3569,IL6,Interleukin-6
+IgG4-Related Sclerosing Cholangitis,796,CALCA,
+IgG4-Related Sclerosing Cholangitis,59067,IL21,
+IgG4-Related Sclerosing Cholangitis,29851,ICOS,
+IgG4-Related Sclerosing Cholangitis,1237,CCR8,
+IgG4-Related Sclerosing Cholangitis,6346,CCL1,C-C motif chemokine 1
+Hemochromatosis,348,APOE,Apolipoprotein E
+Hemochromatosis,3091,HIF1A,Hypoxia-inducible factor 1-alpha
+Hemochromatosis,7099,TP53,Tumor protein p53
+Hemochromatosis,3106,HLA-B,
+Hemochromatosis,12387,Ctnnb1,
+Hemochromatosis,18024,Nfe2l2,
+Hemochromatosis,6347,CCL2,C-C motif chemokine 2 (MCP-1)
+Hemochromatosis,5444,PON1, Paraoxonase 1
+Hemochromatosis,3105,HLA-A,"Major histocompatibility complex, class I, A"
+Hemochromatosis,3077,HFE, Hemochromatosis protein
+Hemochromatosis,33432,dpp," (Unclear, might refer to DPP4 - Dipeptidyl peptidase-4)"
+Hemochromatosis,15368,Hmox1,  Heme oxygenase 1
+Hemochromatosis,54658,UGT1A1,  UDP-glucuronosyltransferase 1A1
+Hemochromatosis,12010,B2m,  Beta-2-microglobulin
+Hemochromatosis,9518,GDF15, Growth/differentiation factor 15
+Hemochromatosis,10,NAT2, N-acetyltransferase 2
+Hemochromatosis,4353,MPO, Myeloperoxidase
+Hemochromatosis,650,BMP2, Bone morphogenetic protein 2
+Hemochromatosis,12156,Bmp2, Bone morphogenetic protein 2
+Hemochromatosis,156110,nef, Negative regulatory factor (HIV-1 protein)
+Alpha-1 Antitrypsin Deficiency,7124,TNF,Tumor necrosis factor
+Alpha-1 Antitrypsin Deficiency,5265,SERPINA1, Alpha-1-antitrypsin
+Alpha-1 Antitrypsin Deficiency,4323,MMP14,Matrix metalloproteinase-14
+Alpha-1 Antitrypsin Deficiency,80339,PNPLA3, Patatin-like phospholipase domain-containing protein 3
+Alpha-1 Antitrypsin Deficiency,1136,CHRNA3, Neuronal acetylcholine receptor subunit alpha-3
+Alpha-1 Antitrypsin Deficiency,5657,PRTN3, Proteinase 3
+Alpha-1 Antitrypsin Deficiency,267,AMFR, Autocrine motility factor receptor
+Alpha-1 Antitrypsin Deficiency,3658,IREB2, Iron-responsive element-binding protein 2
+Alpha-1 Antitrypsin Deficiency,854149,HRD1, Synoviolin-1 (E3 ubiquitin-protein ligase)
+Alpha-1 Antitrypsin Deficiency,24648,Serpina1, Alpha-1-antitrypsin
+Alpha-1 Antitrypsin Deficiency,1606,DGKA,Diacylglycerol kinase alpha
+Alpha-1 Antitrypsin Deficiency,45908,nec," (Unclear, might refer to Necdin - NDN)"
+Alpha-1 Antitrypsin Deficiency,20700,Serpina1a, Alpha-1-antitrypsin-like protein
+Alpha-1 Antitrypsin Deficiency,116939,Pnpla3,Patatin-like phospholipase domain-containing protein 3
+Alpha-1 Antitrypsin Deficiency,258010,SVIP, Small VCP/p97-interacting protein
+Alpha-1 Antitrypsin Deficiency,20701,Serpina1b, Alpha-1-antitrypsin-like protein
+Alpha-1 Antitrypsin Deficiency,20702,Serpina1c, Alpha-1-antitrypsin-like protein
+Alpha-1 Antitrypsin Deficiency,20703,Serpina1d, Alpha-1-antitrypsin-like protein
+Alpha-1 Antitrypsin Deficiency,20704,Serpina1e, Alpha-1-antitrypsin-like protein
+Alpha-1 Antitrypsin Deficiency,791587,zgc:174259, zebrafish gene
+Alcoholic Fatty Liver Disease,7157,TP53,Tumor protein p53
+Alcoholic Fatty Liver Disease,348,APOE,Apolipoprotein E
+Alcoholic Fatty Liver Disease,7124,TNF,Tumor necrosis factor
+Alcoholic Fatty Liver Disease,3569,IL6,Interleukin-6
+Alcoholic Fatty Liver Disease,7040,TGFB1,Transforming growth factor beta-1
+Alcoholic Fatty Liver Disease,22059,Trp53,
+Alcoholic Fatty Liver Disease,4524,MTHFR,Methylenetetrahydrofolate reductase
+Alcoholic Fatty Liver Disease,3091,HIF1A,Hypoxia-inducible factor 1-alpha
+Alcoholic Fatty Liver Disease,3586,IL6,Interleukin-6
+Alcoholic Fatty Liver Disease,21898,Tlr4,
+Alcoholic Fatty Liver Disease,7421,VDR,Vitamin D3 receptor
+Alcoholic Fatty Liver Disease,1401,CRP,C-reactive protein
+Alcoholic Fatty Liver Disease,9370,ADIPOQ,Adiponectin
+Alcoholic Fatty Liver Disease,4790,NFKB1,Nuclear factor NF-kappa-B p105 subunit
+Alcoholic Fatty Liver Disease,1499,CTNNB1,
+Alcoholic Fatty Liver Disease,21926,Tnf,
+Alcoholic Fatty Liver Disease,5468,PPARG,Peroxisome proliferator-activated receptor gamma
+Alcoholic Fatty Liver Disease,16846,Lep,
+Alcoholic Fatty Liver Disease,3479,IGF1,Insulin-like growth factor 1
+Alcoholic Fatty Liver Disease,16193,Il6,
+Alcoholic Hepatitis,7124,TNF,Tumor necrosis factor
+Alcoholic Hepatitis,7040,TGFB1,Transforming growth factor beta-1
+Alcoholic Hepatitis,21898,Tlr4,
+Alcoholic Hepatitis,1401,CRP,C-reactive protein
+Alcoholic Hepatitis,207,AKT1,"RAC-alpha serine/threonine-protein kinase (Protein Kinase B, PKB)"
+Alcoholic Hepatitis,7099,TP53,Tumor protein p53
+Alcoholic Hepatitis,3576,CXCL8,Interleukin-8
+Alcoholic Hepatitis,3458,IFNG,Interferon gamma
+Alcoholic Hepatitis,3605,IL17A,Interleukin-17A
+Alcoholic Hepatitis,3146,HMGB1,High mobility group protein B1
+Alcoholic Hepatitis,7097,TLR2,Toll-like receptor 2
+Alcoholic Hepatitis,2146,EZH2,Enhancer of zeste homolog 2
+Alcoholic Hepatitis,15251,Hif1a,
+Alcoholic Hepatitis,6696,SPP1,
+Alcoholic Hepatitis,183,AGT,
+Alcoholic Hepatitis,16176,Il1b,
+Alcoholic Hepatitis,3082,HGF,Hepatocyte growth factor
+Alcoholic Hepatitis,1277,COL1A1,
+Alcoholic Hepatitis,20750,Spp1,
+Alcoholic Hepatitis,54106,TLR9,
+Alcoholic Cirrhosis,7124,TNF,Tumor necrosis factor
+Alcoholic Cirrhosis,6774,STAT3,Signal transducer and activator of transcription 3
+Alcoholic Cirrhosis,4780,NFE2L2,
+Alcoholic Cirrhosis,4313,MMP2,Matrix metalloproteinase-2
+Alcoholic Cirrhosis,1493,CTLA4,Cytotoxic T-lymphocyte protein 4
+Alcoholic Cirrhosis,51738,GHRL,
+Alcoholic Cirrhosis,6648,SOD2,
+Alcoholic Cirrhosis,929,CD14,Monocyte differentiation antigen CD14
+Alcoholic Cirrhosis,217,ALDH2,"Aldehyde dehydrogenase, mitochondrial"
+Alcoholic Cirrhosis,4353,MPO,Myeloperoxidase
+Alcoholic Cirrhosis,5806,PTX3,Pentraxin-related protein PTX3
+Alcoholic Cirrhosis,1571,CYP2E1, Cytochrome P450 2E1
+Alcoholic Cirrhosis,80339,PNPLA3, Patatin-like phospholipase domain-containing protein 3
+Alcoholic Cirrhosis,125,ADH1B, Alcohol dehydrogenase 1B
+Alcoholic Cirrhosis,3624,INHBA, Inhibin beta A chain
+Alcoholic Cirrhosis,126,ADH1C, Alcohol dehydrogenase 1C
+Alcoholic Cirrhosis,3856,KRT8," Keratin, type II cytoskeletal 8"
+Alcoholic Cirrhosis,6373,CXCL11, C-X-C motif chemokine 11
+Alcoholic Cirrhosis,56848,SPHK2, Sphingosine kinase 2
+Alcoholic Cirrhosis,2204,FCAR,
+Non-Alcoholic Fatty Liver Disease,7157,TP53,Tumor protein p53
+Non-Alcoholic Fatty Liver Disease,348,APOE,Apolipoprotein E
+Non-Alcoholic Fatty Liver Disease,7124,TNF,Tumor necrosis factor
+Non-Alcoholic Fatty Liver Disease,3569,IL6,Interleukin-6
+Non-Alcoholic Fatty Liver Disease,7040,TGFB1,Transforming growth factor beta-1
+Non-Alcoholic Fatty Liver Disease,22059,Trp53,
+Non-Alcoholic Fatty Liver Disease,4524,MTHFR,Methylenetetrahydrofolate reductase
+Non-Alcoholic Fatty Liver Disease,3091,HIF1A,Hypoxia-inducible factor 1-alpha
+Non-Alcoholic Fatty Liver Disease,11816,Apoe,
+Non-Alcoholic Fatty Liver Disease,3586,IL6,Interleukin-6
+Non-Alcoholic Fatty Liver Disease,21898,Tlr4,
+Non-Alcoholic Fatty Liver Disease,7421,VDR,Vitamin D3 receptor
+Non-Alcoholic Fatty Liver Disease,4318,MMP9,Matrix metalloproteinase-9
+Non-Alcoholic Fatty Liver Disease,1401,CRP,C-reactive protein
+Non-Alcoholic Fatty Liver Disease,9370,ADIPOQ,Adiponectin
+Non-Alcoholic Fatty Liver Disease,4790,NFKB1,Nuclear factor NF-kappa-B p105 subunit
+Non-Alcoholic Fatty Liver Disease,1499,CTNNB1,
+Non-Alcoholic Fatty Liver Disease,21926,Tnf,
+Non-Alcoholic Fatty Liver Disease,2475,MTOR,Mechanistic target of rapamycin
+Non-Alcoholic Fatty Liver Disease,5468,PPARG,Peroxisome proliferator-activated receptor gamma
+Non-Alcoholic Steatohepatitis,7157,TP53,Tumor protein p53
+Non-Alcoholic Steatohepatitis,348,APOE,Apolipoprotein E
+Non-Alcoholic Steatohepatitis,7124,TNF,Tumor necrosis factor
+Non-Alcoholic Steatohepatitis,3569,IL6,Interleukin-6
+Non-Alcoholic Steatohepatitis,7040,TGFB1,Transforming growth factor beta-1
+Non-Alcoholic Steatohepatitis,22059,Trp53,
+Non-Alcoholic Steatohepatitis,4524,MTHFR,Methylenetetrahydrofolate reductase
+Non-Alcoholic Steatohepatitis,3091,HIF1A,Hypoxia-inducible factor 1-alpha
+Non-Alcoholic Steatohepatitis,11816,Apoe,
+Non-Alcoholic Steatohepatitis,3586,IL6,Interleukin-6
+Non-Alcoholic Steatohepatitis,21898,Tlr4,
+Non-Alcoholic Steatohepatitis,4318,MMP9,Matrix metalloproteinase-9
+Non-Alcoholic Steatohepatitis,1401,CRP,C-reactive protein
+Non-Alcoholic Steatohepatitis,9370,ADIPOQ,Adiponectin
+Non-Alcoholic Steatohepatitis,21926,Tnf,
+Non-Alcoholic Steatohepatitis,2475,MTOR,Mechanistic target of rapamycin
+Non-Alcoholic Steatohepatitis,5468,PPARG,Peroxisome proliferator-activated receptor gamma
+Non-Alcoholic Steatohepatitis,16846,Lep,
+Non-Alcoholic Steatohepatitis,16193,Il6,Interleukin-6
+Non-Alcoholic Steatohepatitis,3952,LEP,Leptin
+Liver Fibrosis,7157,TP53,Tumor protein p53
+Liver Fibrosis,1956,EGFR,Epidermal growth factor receptor
+Liver Fibrosis,348,APOE,Apolipoprotein E
+Liver Fibrosis,7124,TNF,Tumor necrosis factor
+Liver Fibrosis,3569,IL6,Interleukin-6
+Liver Fibrosis,7422,VEGFA,Vascular endothelial growth factor A
+Liver Fibrosis,7040,TGFB1,Transforming growth factor beta-1
+Liver Fibrosis,22059,Trp53,
+Liver Fibrosis,4524,MTHFR,Methylenetetrahydrofolate reductase
+Liver Fibrosis,3091,HIF1A,Hypoxia-inducible factor 1-alpha
+Liver Fibrosis,3586,IL6,Interleukin-6
+Liver Fibrosis,6774,STAT3,Signal transducer and activator of transcription 3
+Liver Fibrosis,1636,ACE,Angiotensin-converting enzyme
+Liver Fibrosis,673,BRAF,Serine/threonine-protein kinase B-Raf
+Liver Fibrosis,21898,Tlr4,
+Liver Fibrosis,7421,VDR,Vitamin D3 receptor
+Liver Fibrosis,4318,MMP9,Matrix metalloproteinase-9
+Liver Fibrosis,29126,CD274,Programmed death-ligand 1 (PD-L1)
+Liver Fibrosis,9370,ADIPOQ,Adiponectin
+Liver Fibrosis,4790,NFKB1,Nuclear factor NF-kappa-B p105 subunit
+Cirrhosis,7157,TP53,Tumor protein p53
+Cirrhosis,1956,EGFR,Epidermal growth factor receptor
+Cirrhosis,348,APOE,Apolipoprotein E
+Cirrhosis,7124,TNF,Tumor necrosis factor
+Cirrhosis,3569,IL6,Interleukin-6
+Cirrhosis,7422,VEGFA,Vascular endothelial growth factor A
+Cirrhosis,7040,TGFB1,Transforming growth factor beta-1
+Cirrhosis,22059,Trp53,
+Cirrhosis,4524,MTHFR,Methylenetetrahydrofolate reductase
+Cirrhosis,3091,HIF1A,Hypoxia-inducible factor 1-alpha
+Cirrhosis,2099,ESR1,Estrogen receptor alpha
+Cirrhosis,3586,IL6,Interleukin-6
+Cirrhosis,6774,STAT3,Signal transducer and activator of transcription 3
+Cirrhosis,1636,ACE,Angiotensin-converting enzyme
+Cirrhosis,7421,VDR,Vitamin D3 receptor
+Cirrhosis,4318,MMP9,Matrix metalloproteinase-9
+Cirrhosis,29126,CD274,Programmed death-ligand 1 (PD-L1)
+Cirrhosis,1401,CRP,C-reactive protein
+Cirrhosis,9370,ADIPOQ,Adiponectin
+Cirrhosis,207,AKT1,"RAC-alpha serine/threonine-protein kinase (Protein Kinase B, PKB)"
+Acute Liver Failure,7157,TP53,Tumor protein p53
+Acute Liver Failure,7124,TNF,Tumor necrosis factor
+Acute Liver Failure,7422,VEGFA,Vascular endothelial growth factor A
+Acute Liver Failure,7040,TGFB1,Transforming growth factor beta-1
+Acute Liver Failure,22059,Trp53,
+Acute Liver Failure,2099,ESR1,Estrogen receptor alpha
+Acute Liver Failure,3586,IL6,Interleukin-6
+Acute Liver Failure,21898,Tlr4,
+Acute Liver Failure,4318,MMP9,Matrix metalloproteinase-9
+Acute Liver Failure,367,AR,Androgen receptor
+Acute Liver Failure,21926,Tnf,Tumor necrosis factor
+Acute Liver Failure,7099,TP53,Tumor protein p53
+Acute Liver Failure,5743,PTGS2,Prostaglandin-endoperoxide synthase 2 (COX-2)
+Acute Liver Failure,16193,Il6,Interleukin-6
+Acute Liver Failure,21803,Tgfb1,
+Acute Liver Failure,3458,IFNG,Interferon gamma
+Acute Liver Failure,18024,Nfe2l2,
+Acute Liver Failure,23411,SIRT1,NAD-dependent deacetylase sirtuin-1
+Acute Liver Failure,406991,MIR21,MicroRNA 21
+Acute Liver Failure,3146,HMGB1,High mobility group protein B1
+Chronic Liver Failure,7157,TP53,Tumor protein p53
+Chronic Liver Failure,1956,EGFR,Epidermal growth factor receptor
+Chronic Liver Failure,7124,TNF,Tumor necrosis factor
+Chronic Liver Failure,3569,IL6,Interleukin-6
+Chronic Liver Failure,7422,VEGFA,Vascular endothelial growth factor A
+Chronic Liver Failure,7040,TGFB1,Transforming growth factor beta-1
+Chronic Liver Failure,22059,Trp53,Tumor protein p53
+Chronic Liver Failure,3091,HIF1A,Hypoxia-inducible factor 1-alpha
+Chronic Liver Failure,2099,ESR1,Estrogen receptor alpha
+Chronic Liver Failure,3586,IL6,Interleukin-6
+Chronic Liver Failure,21898,Tlr4,
+Chronic Liver Failure,4318,MMP9,Matrix metalloproteinase-9
+Chronic Liver Failure,29126,CD274,Programmed death-ligand 1 (PD-L1)
+Chronic Liver Failure,1401,CRP,C-reactive protein
+Chronic Liver Failure,367,AR,Androgen receptor
+Chronic Liver Failure,21926,Tnf,Tumor necrosis factor
+Chronic Liver Failure,7099,TP53,Tumor protein p53
+Chronic Liver Failure,5743,PTGS2,Prostaglandin-endoperoxide synthase 2 (COX-2)
+Chronic Liver Failure,4846,NOS3,
+Chronic Liver Failure,3576,CXCL8,Interleukin-8
+Hepatorenal Syndrome,3934,LCN2,Neutrophil gelatinase-associated lipocalin (NGAL)
+Hepatorenal Syndrome,1471,CST3,Cystatin C
+Hepatorenal Syndrome,24451,Hmox1,Heme oxygenase 1
+Hepatorenal Syndrome,3875,KRT18,"Keratin, type I cytoskeletal 18"
+Hepatorenal Syndrome,25262,Itpr1,"Inositol 1,4,5-trisphosphate receptor type 1"
+Hepatorenal Syndrome,552,AVPR1A,Arginine vasopressin receptor 1A
+Hepatorenal Syndrome,54301,Slc14a1, Urea transporter 1 (UT-B)
+Hepatopulmonary Syndrome,5743,PTGS2,Prostaglandin-endoperoxide synthase 2 (COX-2)
+Hepatopulmonary Syndrome,4846,NOS3,
+Hepatopulmonary Syndrome,6347,CCL2,C-C motif chemokine 2 (MCP-1)
+Hepatopulmonary Syndrome,5054,SERPINE1,
+Hepatopulmonary Syndrome,7097,TLR2,Toll-like receptor 2
+Hepatopulmonary Syndrome,13051,Cx3cr1,C-X3-C motif chemokine receptor 1
+Hepatopulmonary Syndrome,24835,Tnf,Tumor necrosis factor
+Hepatopulmonary Syndrome,1906,EDN1,Endothelin-1
+Hepatopulmonary Syndrome,4843,NOS2,Nitric oxide synthase 2
+Hepatopulmonary Syndrome,24451,Hmox1,Heme oxygenase 1
+Hepatopulmonary Syndrome,24599,Nos2,Nitric oxide synthase 2
+Hepatopulmonary Syndrome,4353,MPO,Myeloperoxidase
+Hepatopulmonary Syndrome,24600,Nos3,Nitric oxide synthase 3 (eNOS)
+Hepatopulmonary Syndrome,29527,Ptgs2,Prostaglandin-endoperoxide synthase 2 (COX-2)
+Hepatopulmonary Syndrome,24323,Edn1,Endothelin-1
+Hepatopulmonary Syndrome,81649,Mapk14,Mitogen-activated protein kinase 14 (p38 MAPK)
+Hepatopulmonary Syndrome,25402,Casp3,Caspase-3
+Hepatopulmonary Syndrome,5327,PLAT,Tissue-type plasminogen activator
+Hepatopulmonary Syndrome,50557,Pten,Phosphatase and tensin homolog
+Hepatopulmonary Syndrome,50672,Ednrb,Endothelin receptor type B
+Hepatocellular Carcinoma,7157,TP53,Tumor protein p53
+Hepatocellular Carcinoma,1956,EGFR,Epidermal growth factor receptor
+Hepatocellular Carcinoma,348,APOE,Apolipoprotein E
+Hepatocellular Carcinoma,7124,TNF,Tumor necrosis factor
+Hepatocellular Carcinoma,3569,IL6,Interleukin-6
+Hepatocellular Carcinoma,7422,VEGFA,Vascular endothelial growth factor A
+Hepatocellular Carcinoma,7040,TGFB1,Transforming growth factor beta-1
+Hepatocellular Carcinoma,22059,Trp53,
+Hepatocellular Carcinoma,4524,MTHFR,Methylenetetrahydrofolate reductase
+Hepatocellular Carcinoma,3091,HIF1A,Hypoxia-inducible factor 1-alpha
+Hepatocellular Carcinoma,2064,ERBB2,Receptor tyrosine-protein kinase erbB-2 (HER2)
+Hepatocellular Carcinoma,2099,ESR1,Estrogen receptor alpha
+Hepatocellular Carcinoma,3586,IL6,Interleukin-6
+Hepatocellular Carcinoma,6774,STAT3,Signal transducer and activator of transcription 3
+Hepatocellular Carcinoma,672,BRCA1,
+Hepatocellular Carcinoma,1636,ACE,Angiotensin-converting enzyme
+Hepatocellular Carcinoma,3845,KRAS,GTPase KRas
+Hepatocellular Carcinoma,627,BDNF,
+Hepatocellular Carcinoma,673,BRAF,Serine/threonine-protein kinase B-Raf
+Hepatocellular Carcinoma,21898,Tlr4,
+Intrahepatic Cholangiocarcinoma,7157,TP53,Tumor protein p53
+Intrahepatic Cholangiocarcinoma,1956,EGFR,Epidermal growth factor receptor
+Intrahepatic Cholangiocarcinoma,7124,TNF,Tumor necrosis factor
+Intrahepatic Cholangiocarcinoma,3569,IL6,Interleukin-6
+Intrahepatic Cholangiocarcinoma,7422,VEGFA,Vascular endothelial growth factor A
+Intrahepatic Cholangiocarcinoma,7040,TGFB1,Transforming growth factor beta-1
+Intrahepatic Cholangiocarcinoma,22059,Trp53,
+Intrahepatic Cholangiocarcinoma,3091,HIF1A,Hypoxia-inducible factor 1-alpha
+Intrahepatic Cholangiocarcinoma,2099,ESR1,Estrogen receptor alpha
+Intrahepatic Cholangiocarcinoma,6774,STAT3,Signal transducer and activator of transcription 3
+Intrahepatic Cholangiocarcinoma,3845,KRAS,GTPase KRas
+Intrahepatic Cholangiocarcinoma,673,BRAF,Serine/threonine-protein kinase B-Raf
+Intrahepatic Cholangiocarcinoma,4318,MMP9,Matrix metalloproteinase-9
+Intrahepatic Cholangiocarcinoma,29126,CD274,Programmed death-ligand 1 (PD-L1)
+Intrahepatic Cholangiocarcinoma,1401,CRP,C-reactive protein
+Intrahepatic Cholangiocarcinoma,207,AKT1,"RAC-alpha serine/threonine-protein kinase (Protein Kinase B, PKB)"
+Intrahepatic Cholangiocarcinoma,4790,NFKB1,Nuclear factor NF-kappa-B p105 subunit
+Intrahepatic Cholangiocarcinoma,3553,IL1B,Interleukin-1 beta
+Intrahepatic Cholangiocarcinoma,5728,PTEN,Phosphatase and tensin homolog
+Intrahepatic Cholangiocarcinoma,7099,TP53,Tumor protein p53
+Angiosarcoma of the Liver,7157,TP53,Tumor protein p53
+Angiosarcoma of the Liver,3569,IL6,Interleukin-6
+Angiosarcoma of the Liver,7422,VEGFA,Vascular endothelial growth factor A
+Angiosarcoma of the Liver,3091,HIF1A,Hypoxia-inducible factor 1-alpha
+Angiosarcoma of the Liver,6774,STAT3,Signal transducer and activator of transcription 3
+Angiosarcoma of the Liver,207,AKT1,"RAC-alpha serine/threonine-protein kinase (Protein Kinase B, PKB)"
+Angiosarcoma of the Liver,4790,NFKB1,Nuclear factor NF-kappa-B p105 subunit
+Angiosarcoma of the Liver,5728,PTEN,Phosphatase and tensin homolog
+Angiosarcoma of the Liver,4609,MYC,Myc proto-oncogene protein
+Angiosarcoma of the Liver,2475,MTOR,Mechanistic target of rapamycin
+Angiosarcoma of the Liver,16193,Il6,
+Angiosarcoma of the Liver,23411,SIRT1,NAD-dependent deacetylase sirtuin-1
+Angiosarcoma of the Liver,595,CCND1,
+Angiosarcoma of the Liver,5290,PIK3CA,"Phosphatidylinositol-4,5-bisphosphate 3-kinase catalytic subunit alpha"
+Angiosarcoma of the Liver,4851,zsx,
+Angiosarcoma of the Liver,18033,Nfkb1,
+Angiosarcoma of the Liver,10413,YAP1,
+Angiosarcoma of the Liver,3815,KIT,
+Angiosarcoma of the Liver,5970,RELA,
+Angiosarcoma of the Liver,18128,Notch1,
+Hepatoblastoma,7157,TP53,Tumor protein p53
+Hepatoblastoma,1956,EGFR,Epidermal growth factor receptor
+Hepatoblastoma,7422,VEGFA,Vascular endothelial growth factor A
+Hepatoblastoma,6774,STAT3,Signal transducer and activator of transcription 3
+Hepatoblastoma,207,AKT1,"RAC-alpha serine/threonine-protein kinase (Protein Kinase B, PKB)"
+Hepatoblastoma,1499,CTNNB1,
+Hepatoblastoma,7099,TP53,Tumor protein p53
+Hepatoblastoma,7015,TERT,Telomerase reverse transcriptase
+Hepatoblastoma,7852,CXCR4,
+Hepatoblastoma,12387,Ctnnb1,
+Hepatoblastoma,4193,MDM2,
+Hepatoblastoma,595,CCND1,
+Hepatoblastoma,406991,MIR21,MicroRNA 21
+Hepatoblastoma,5290,PIK3CA,"Phosphatidylinositol-4,5-bisphosphate 3-kinase catalytic subunit alpha"
+Hepatoblastoma,960,CD44,
+Hepatoblastoma,332,BIRC5,
+Hepatoblastoma,2146,EZH2,Enhancer of zeste homolog 2
+Hepatoblastoma,10413,YAP1,
+Hepatoblastoma,3162,HMOX1,
+Hepatoblastoma,3383,ICAM1,Intercellular adhesion molecule 1
+Liver Metastases,7157,TP53,Tumor protein p53
+Liver Metastases,1956,EGFR,Epidermal growth factor receptor
+Liver Metastases,348,APOE,Apolipoprotein E
+Liver Metastases,7124,TNF,Tumor necrosis factor
+Liver Metastases,3569,IL6,Interleukin-6
+Liver Metastases,7422,VEGFA,Vascular endothelial growth factor A
+Liver Metastases,7040,TGFB1,Transforming growth factor beta-1
+Liver Metastases,22059,Trp53,
+Liver Metastases,3091,HIF1A,Hypoxia-inducible factor 1-alpha
+Liver Metastases,2064,ERBB2,Receptor tyrosine-protein kinase erbB-2 (HER2)
+Liver Metastases,2099,ESR1,Estrogen receptor alpha
+Liver Metastases,6774,STAT3,Signal transducer and activator of transcription 3
+Liver Metastases,672,BRCA1,
+Liver Metastases,1636,ACE,Angiotensin-converting enzyme
+Liver Metastases,3845,KRAS,GTPase KRas
+Liver Metastases,673,BRAF,Serine/threonine-protein kinase B-Raf
+Liver Metastases,7421,VDR,Vitamin D3 receptor
+Liver Metastases,4318,MMP9,Matrix metalloproteinase-9
+Liver Metastases,29126,CD274,Programmed death-ligand 1 (PD-L1)
+Liver Metastases,1401,CRP,C-reactive protein
+Hepatic Adenoma,7157,TP53,Tumor protein p53
+Hepatic Adenoma,1956,EGFR,Epidermal growth factor receptor
+Hepatic Adenoma,348,APOE,Apolipoprotein E
+Hepatic Adenoma,7124,TNF,Tumor necrosis factor
+Hepatic Adenoma,3569,IL6,Interleukin-6
+Hepatic Adenoma,7422,VEGFA,Vascular endothelial growth factor A
+Hepatic Adenoma,7040,TGFB1,Transforming growth factor beta-1
+Hepatic Adenoma,22059,Trp53,
+Hepatic Adenoma,4524,MTHFR,Methylenetetrahydrofolate reductase
+Hepatic Adenoma,3091,HIF1A,Hypoxia-inducible factor 1-alpha
+Hepatic Adenoma,2099,ESR1,Estrogen receptor alpha
+Hepatic Adenoma,3586,IL6,Interleukin-6
+Hepatic Adenoma,6774,STAT3,Signal transducer and activator of transcription 3
+Hepatic Adenoma,3845,KRAS,GTPase KRas
+Hepatic Adenoma,627,BDNF,
+Hepatic Adenoma,7421,VDR,Vitamin D3 receptor
+Hepatic Adenoma,4318,MMP9,Matrix metalloproteinase-9
+Hepatic Adenoma,29126,CD274,Programmed death-ligand 1 (PD-L1)
+Hepatic Adenoma,1401,CRP,C-reactive protein
+Hepatic Adenoma,9370,ADIPOQ,Adiponectin
+Focal Nodular Hyperplasia,7157,TP53,Tumor protein p53
+Focal Nodular Hyperplasia,1499,CTNNB1,
+Focal Nodular Hyperplasia,285,ANGPT2,Angiopoietin-2
+Focal Nodular Hyperplasia,6927,HNF1A,Hepatocyte nuclear factor 1-alpha
+Focal Nodular Hyperplasia,174,AFP,Alpha-fetoprotein
+Focal Nodular Hyperplasia,947,CD34,Hematopoietic progenitor cell antigen CD34
+Focal Nodular Hyperplasia,3880,KRT19,
+Focal Nodular Hyperplasia,2719,GPC3,Glypican-3
+Focal Nodular Hyperplasia,284,ANGPT1,
+Focal Nodular Hyperplasia,3855,KRT7,
+Focal Nodular Hyperplasia,2752,GLUL,
+Focal Nodular Hyperplasia,6710,SPTB,
+Focal Nodular Hyperplasia,4897,NRCAM,
+Hepatic Hemangioma,7157,TP53,Tumor protein p53
+Hepatic Hemangioma,7422,VEGFA,Vascular endothelial growth factor A
+Hepatic Hemangioma,3091,HIF1A,Hypoxia-inducible factor 1-alpha
+Hepatic Hemangioma,3845,KRAS,GTPase KRas
+Hepatic Hemangioma,4318,MMP9,Matrix metalloproteinase-9
+Hepatic Hemangioma,207,AKT1,"RAC-alpha serine/threonine-protein kinase (Protein Kinase B, PKB)"
+Hepatic Hemangioma,2475,MTOR,Mechanistic target of rapamycin
+Hepatic Hemangioma,3605,IL17A,Interleukin-17A
+Hepatic Hemangioma,4313,MMP2,Matrix metalloproteinase-2
+Hepatic Hemangioma,3146,HMGB1,High mobility group protein B1
+Hepatic Hemangioma,4851,NOTCH1,Neurogenic locus notch homolog protein 1
+Hepatic Hemangioma,11651,Akt1,RAC-alpha serine/threonine-protein kinase
+Hepatic Hemangioma,1565,CYP2D6,Cytochrome P450 2D6
+Hepatic Hemangioma,5970,RELA,transcription factor p65
+Hepatic Hemangioma,3135,HLA-G,"Major histocompatibility complex, class I, G"
+Hepatic Hemangioma,355,FAS,Tumor necrosis factor receptor superfamily member 6
+Hepatic Hemangioma,3480,IGF1R,Insulin-like growth factor 1 receptor
+Hepatic Hemangioma,3417,IDH1,Isocitrate dehydrogenase [NADP] cytoplasmic
+Hepatic Hemangioma,3791,KDR,vascular endothelial growth factor receptor 2 (VEGFR-2)
+Hepatic Hemangioma,2247,FGF2,Fibroblast growth factor 2
+Hepatic Fibrolamellar Carcinoma,4790,NFKB1,Nuclear factor NF-kappa-B p105 subunit
+Hepatic Fibrolamellar Carcinoma,2475,MTOR,Mechanistic target of rapamycin
+Hepatic Fibrolamellar Carcinoma,12387,Ctnnb1,
+Hepatic Fibrolamellar Carcinoma,10413,YAP1,
+Hepatic Fibrolamellar Carcinoma,5578,PRKCA,Protein kinase C alpha type
+Hepatic Fibrolamellar Carcinoma,5566,PRKACA,Protein kinase C alpha type
+Hepatic Fibrolamellar Carcinoma,174,AFP,Alpha-fetoprotein
+Hepatic Fibrolamellar Carcinoma,494324,MIR375,MicroRNA 375
+Hepatic Fibrolamellar Carcinoma,18747,Prkaca,cAMP-dependent protein kinase catalytic subunit alpha
+Hepatic Fibrolamellar Carcinoma,2168,FABP1,
+Hepatic Fibrolamellar Carcinoma,25636,Prkaca,cAMP-dependent protein kinase catalytic subunit alpha
+Hepatic Fibrolamellar Carcinoma,8431,NR0B2,Nuclear receptor subfamily 0 group B member 2
+Hepatic Fibrolamellar Carcinoma,81489,Dnajb1,"DnaJ homolog subfamily B member 1 (Heat shock protein 40, Hsp40)"
+Hepatic Fibrolamellar Carcinoma,192346,NEWENTRY,

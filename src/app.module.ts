@@ -1,6 +1,6 @@
 import { Module } from '@nestjs/common';
 import { ConfigModule } from '@nestjs/config';
-import { KnowledgeModule } from './knowledgegraph/knowledgemodule';
+import { KnowledgeModule } from './graph/graph.module';
 import { MongooseModule } from '@nestjs/mongoose';
 import { Neo4jModule } from './neo4j/neo4j.module';
 import { DiseaseModule } from './disease/disease.module';
