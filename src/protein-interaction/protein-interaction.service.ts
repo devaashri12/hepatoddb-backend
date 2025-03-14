@@ -6,11 +6,11 @@ import { ProteinInteraction, ProteinInteractionDocument } from './schema';
 @Injectable()
 export class ProteinInteractionService {
   constructor(
-    @InjectModel(ProteinInteraction.name) 
+    @InjectModel(ProteinInteraction.name)
     private readonly proteinInteractionModel: Model<ProteinInteractionDocument>,
   ) {}
 
-  async findFilteredInteractions(query: any, page: number, limit: number): Promise<{ data: ProteinInteraction[], total: number, page: number, limit: number }> {
+  async findFilteredInteractions(query: any): Promise<{ data: ProteinInteraction[] }> {
     const filter: any = {};
 
     if (query.protein1) {
@@ -22,13 +22,16 @@ export class ProteinInteractionService {
     if (query.disease) {
       filter.disease = query.disease;
     }
-
-    // Pagination calculation
-    const skip = (page - 1) * limit;
     
-    const data = await this.proteinInteractionModel.find(filter).skip(skip).limit(limit).exec();
-    const total = await this.proteinInteractionModel.countDocuments(filter);
+    const data = await this.proteinInteractionModel.find(filter).exec();
+    return { data };
+  }
 
-    return { data, total, page, limit };
+  async getUniqueValues() {
+    const protein1 = await this.proteinInteractionModel.distinct('protein1').exec();
+    const protein2 = await this.proteinInteractionModel.distinct('protein2').exec();
+    const disease = await this.proteinInteractionModel.distinct('disease').exec();
+
+    return { protein1, protein2, disease };
   }
 }
