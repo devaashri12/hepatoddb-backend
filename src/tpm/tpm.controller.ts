@@ -20,4 +20,9 @@ export class TpmController {
 
     return this.tpmService.findAllPaginated(limitNum, pageNum);
   }
+
+  @Get('unique-values')
+  async getUniqueValues() {
+    return this.tpmService.getUniqueValues();
+  }
 }

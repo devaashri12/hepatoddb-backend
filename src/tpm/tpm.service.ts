@@ -23,4 +23,10 @@ export class TpmService {
     const data = await this.tpmModel.find({ gene_name }).exec();
     return { data };
   }
+
+  async getUniqueValues() {
+    const gene = await this.tpmModel.distinct('gene_name').exec();
+
+    return { gene };
+  }
 }
