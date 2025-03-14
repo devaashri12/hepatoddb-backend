@@ -9,4 +9,9 @@ export class MetaboliteController {
   async getMetabolites(@Query('disease') disease?: string) {
     return this.metaboliteService.findMetabolites(disease);
   }
+
+  @Get('unique-values')
+  async getUniqueValues() {
+    return this.metaboliteService.getUniqueValues();
+  }
 }

@@ -14,4 +14,10 @@ export class MetaboliteService {
     const filter = disease ? { disease } : {};
     return this.metaboliteModel.find(filter).exec();
   }
+
+  async getUniqueValues() {
+    const disease = await this.metaboliteModel.distinct('disease').exec();
+
+    return { disease };
+  }
 }
