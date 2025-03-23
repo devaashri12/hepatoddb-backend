@@ -7,6 +7,7 @@ import { DiseaseModule } from './disease/disease.module';
 import { ProteinInteractionModule } from './protein-interaction/protein-interaction.module';
 import { MetaboliteModule } from './metabolite/metabolite.module';
 import { TpmModule } from './tpm/tpm.module';
+import { DrugsModule } from './drugs/drugs.module';
 
 @Module({
   imports: [
@@ -18,7 +19,8 @@ import { TpmModule } from './tpm/tpm.module';
     DiseaseModule,
     ProteinInteractionModule,
     MetaboliteModule,
-    TpmModule
+    TpmModule,
+    DrugsModule
   ],
 })
 export class AppModule {}
