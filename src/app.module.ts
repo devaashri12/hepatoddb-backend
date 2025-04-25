@@ -11,7 +11,7 @@ import { DrugsModule } from './drugs/drugs.module';
 
 @Module({
   imports: [
-    MongooseModule.forRoot('mongodb://localhost:27017/disease'),
+    MongooseModule.forRoot('mongodb+srv://osjohn01:osjohn01@osjohncluster.nr7tiih.mongodb.net/disease'),
     ConfigModule.forRoot(),  // Load environment variables
     Neo4jModule,
     KnowledgeModule,
